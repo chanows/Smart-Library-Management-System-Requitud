@@ -9,6 +9,7 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
+  
 Development Team
 Student Name: REQUITUD, Christian Arnel
 Course: BSIT-BA 
