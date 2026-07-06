@@ -10,7 +10,7 @@ Project Modules
 - Inventory Management
 - Reports
   
-Development Team
-Student Name: REQUITUD, Christian Arnel
-Course: BSIT-BA 
-Section: 2C
+-Development Team
+-Student Name: REQUITUD, Christian Arnel
+-Course: BSIT-BA 
+-Section: 2C
